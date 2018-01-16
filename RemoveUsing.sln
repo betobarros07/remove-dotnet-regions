@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveUsing", "RemoveUsing\RemoveUsing.csproj", "{0559C008-C032-412A-B3BA-A74B4C1D3C71}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveUsing", "src\RemoveUsing.csproj", "{0559C008-C032-412A-B3BA-A74B4C1D3C71}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
